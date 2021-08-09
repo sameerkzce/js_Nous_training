@@ -1,5 +1,5 @@
 // implement following using reduce method
-
+//sample
 // some
 // every
 // map
